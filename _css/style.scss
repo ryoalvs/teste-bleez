@@ -89,7 +89,7 @@ body { overflow-x: hidden; }
         }
     }
 
-    // oculta a scrollbar em todos os principais navegadores
+    /* oculta a scrollbar em todos os principais navegadores */
     .pack::-webkit-scrollbar {
         display: none;
     }
@@ -99,7 +99,7 @@ body { overflow-x: hidden; }
       }
 }
 
-// breakpoint para a adaptação desktop
+/* breakpoint para a adaptação desktop */
 
 @media screen and (min-width: 900px) {
 
